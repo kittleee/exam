@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Kristel Jane C. Gonzales</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>kristel.jpg</picture>
+    </user>
+    <user>
+        <name>Yuki Ishikawa</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>yuki.png</picture>
+    </user>
+    <user>
+        <name>Ran Takahashi</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>ran.png</picture>
+    </user>
+    <user>
+        <name>Ji-cheol Gong</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>gongyo.png</picture>
+    </user>
+    <user>
+        <name>Bo-gum Park</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>bogum.png</picture>
+    </user>
+    <user>
+        <name>Charles Leclerc</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes </adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>leclerc.png</picture>
+    </user>
+    <user>
+        <name>Carlos Sainz</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>carlos.png</picture>
+    </user>
+    <user>
+        <name>Harry Styles</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes </adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>harry.png</picture>
+    </user>
+    <user>
+        <name>Niall Horan</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>niall.png</picture>
+    </user>
+    <user>
+        <name>George Russell</name>
+        <course>BSIT</course>
+        <yearLevelSection>3BG2</yearLevelSection>
+        <adviser>Mrs. Noemi Reyes</adviser>
+        <schoolYear>2025-2026</schoolYear>
+        <picture>russell.png</picture>
+    </user>
+</users>
